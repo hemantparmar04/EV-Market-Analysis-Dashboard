@@ -43,3 +43,6 @@ This dashboard provides an overview of electric vehicle market data and helps id
 Author
 
 Hemant Parmar
+Live Tableau Dashboard
+
+"View EV Market Analysis Dashboard" (https://public.tableau.com/views/EVMarketAnalysisDashboard_17930190186570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
