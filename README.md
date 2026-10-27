@@ -48,3 +48,6 @@ Live Tableau Dashboard
 "View EV Market Analysis Dashboard" (https://public.tableau.com/views/EVMarketAnalysisDashboard_17930190186570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Dashboard Preview
 ![EV Dashboard](Screenshot%202026-10-27%20161205.png)
+##Live Tableau Dashboard
+View the interactive dashboard here:
+"Open EV Market Analysis Dashboard" (https://public.tableau.com/views/EVMarketAnalysisDashboard_17930190186570/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
